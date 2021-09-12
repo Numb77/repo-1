@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hey"
+echo "Main branch rules!"
+
